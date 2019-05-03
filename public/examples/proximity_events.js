@@ -10,7 +10,7 @@ export let myscene = {
 	// a test of a child directly declared rather than inside a child group
 	"mysky": {
 		sky:{
-			art:"../art/eso0932a.jpg"
+			art:"../art/ENV008_Refl.jpg"
 		}
 	},
 
