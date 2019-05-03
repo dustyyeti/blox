@@ -4,7 +4,7 @@
   "description": "A pattern library for 3d behaviors",
   "repository": {
     "type": "git",
-    "url": "https://github.com/anselm/blox.git"
+    "url": "https://github.com/dustyyeti/blox.git"
   },
   "main": "needs_a_server.js",
   "scripts": {
