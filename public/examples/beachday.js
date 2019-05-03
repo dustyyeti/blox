@@ -194,7 +194,7 @@ export let beachday = {
 			color:0x00FFFF,
 			scale:{x:10,y:10,z:1},
 			position:{x:0,y:5,z:-20},
-			say:"Critter World"
+			say:"Vrubel laments"
 		}
 	},
 
@@ -204,7 +204,7 @@ export let beachday = {
 			color:0x00FFFF,
 			scale:{x:10,y:10,z:10},
 			position:{x:-10,y:5,z:-10},
-			say:"I have eaten the plums that were in the icebox and which you were probably saving for breakfast. Forgive me they were delicious, so sweet, and so cold"
+			say:"The Demon sits, wrapped in himself, uknown, but knowing."
 		}
 	},
 
