@@ -62,8 +62,8 @@ export let beachday = {
 			if(!window.webkit && args.blox.mesh) args.blox.mesh.visible = true
 		},
 		sky:{
-			art:"./art/ENV008_Refl.jpg",
-			visible:false
+			art:"./art/eso0932a.jpg",
+			// visible:false
 		},
 	},
 
