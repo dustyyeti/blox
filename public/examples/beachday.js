@@ -15,7 +15,7 @@ let useful_place = {x:0,y:0,z:0}
 /// The name of this blox is defined here as well as its properties
 ///
 
-export let cherry_blossoms = {
+export let beachday = {
 
 	//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	// Scene Setup
